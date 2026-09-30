@@ -1,0 +1,4 @@
+,age,bp,sg,al,su,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,rbc,pc,pcc,ba,htn,dm,cad,appet,pe,ane,actual,p_ckd,predicted,n_missing_features,source,outcome
+273,47.0,80.0,1.02,0.0,0.0,95.0,35.0,0.9,140.0,4.1,,,,,normal,normal,notpresent,notpresent,no,no,no,good,no,no,0,0.5158901720931462,1,4,train (out-of-fold),FP
+224,34.0,60.0,1.02,0.0,0.0,117.0,28.0,2.2,138.0,3.8,,,,,,normal,notpresent,notpresent,no,no,no,good,yes,no,1,0.47466577302445745,0,5,test,FN
+102,17.0,60.0,1.01,0.0,0.0,92.0,32.0,2.1,141.0,4.2,13.9,52.0,7000.0,,,normal,notpresent,notpresent,no,no,no,good,no,no,1,0.40811798303376745,0,2,test,FN
